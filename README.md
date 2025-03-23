@@ -3,7 +3,7 @@ The SQL script follows these key steps:
 
 ### Removing Duplicates
 
-### Identifies and removes duplicate records.
+ Identifies and removes duplicate records.
 
 ## Standardizing Data
 
